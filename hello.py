@@ -1,6 +1,7 @@
 """
 Multiply input by two and print the result
 
+author: Ziyu (Selina) Wang
 """
 
 def multiply_by_two(x):
